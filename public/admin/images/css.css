@@ -1,0 +1,129 @@
+BODY {
+	MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f2f0f1
+}
+A:link {
+	FONT-SIZE: 12px; COLOR: #666; TEXT-DECORATION: none
+}
+A:visited {
+	FONT-SIZE: 12px; COLOR: #666; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 12px; COLOR: #f00; TEXT-DECORATION: underline
+}
+UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+DL {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DT {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+DD {
+	BORDER-TOP-WIDTH: 0px; PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; BORDER-RIGHT-WIDTH: 0px
+}
+#wrap {
+	MARGIN-LEFT: auto; WIDTH: 960px; MARGIN-RIGHT: auto
+}
+#top {
+	BACKGROUND: url(http://www.bzw123.com/about/images/top_bg.jpg) no-repeat left 50%; FLOAT: left; WIDTH: 960px; HEIGHT: 138px
+}
+#top .logo {
+	FLOAT: left; WIDTH: 257px; PADDING-TOP: 20px; HEIGHT: 84px
+}
+#nav {
+	MARGIN-TOP: 4px; FLOAT: right; WIDTH: 960px; HEIGHT: 30px
+}
+#nav UL {
+	FLOAT: right; WIDTH: 300px; HEIGHT: 30px
+}
+#nav UL LI {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://www.bzw123.com/about/images/nav_bg.gif) no-repeat; FLOAT: left; PADDING-BOTTOM: 0px; MARGIN: 0px 5px; WIDTH: 104px; PADDING-TOP: 10px; LIST-STYLE-TYPE: none; HEIGHT: 20px; TEXT-ALIGN: center
+}
+#nav UL LI A:hover {
+	TEXT-DECORATION: underline
+}
+#nav UL LI A {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #ffffff; TEXT-DECORATION: none
+}
+#main {
+	BORDER-RIGHT: #1297d1 10px solid; BORDER-TOP: #1297d1 10px solid; BACKGROUND: url(http://www.bzw123.com/about/images/line.jpg) #fff repeat-y left top; FLOAT: left; BORDER-LEFT: #1297d1 10px solid; WIDTH: 940px; BORDER-BOTTOM: #1297d1 10px solid
+}
+#main .mainleft {
+	FLOAT: left; WIDTH: 240px; PADDING-TOP: 80px
+}
+#main .mainleft UL {
+	FLOAT: right; WIDTH: 214px
+}
+#main .mainleft UL LI {
+	FLOAT: left; WIDTH: 214px; HEIGHT: 50px
+}
+#main .mainleft UL LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 24px; FONT-SIZE: 16px; PADDING-BOTTOM: 0px; COLOR: #333; LINE-HEIGHT: 22px; PADDING-TOP: 10px; FONT-FAMILY: "Î¢ÈíÑÅºÚ"; HEIGHT: 30px; TEXT-DECORATION: none
+}
+#main .mainleft UL LI A:hover {
+	DISPLAY: block; COLOR: #9d1600; BACKGROUND-COLOR: #fff
+}
+#main .mainleft UL LI A.hover {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 24px; PADDING-BOTTOM: 0px; WIDTH: 190px; COLOR: #000000; PADDING-TOP: 10px; HEIGHT: 30px; BACKGROUND-COLOR: #fff; TEXT-DECORATION: none
+}
+#main .mainright {
+	FLOAT: right; WIDTH: 700px
+}
+.en {
+	FONT-SIZE: 9px; COLOR: #666; FONT-FAMILY: Verdana
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 26px; COLOR: #666; LINE-HEIGHT: 26px; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+H3 SUB {
+	PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ccc; FONT-FAMILY: Tahoma
+}
+.content {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 20px; FONT-SIZE: 14px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 660px; COLOR: #333333; LINE-HEIGHT: 20px; PADDING-TOP: 10px
+}
+H4 {
+	PADDING-LEFT: 15px; BACKGROUND: url(http://www.bzw123.com/about/images/dot.gif) no-repeat 5px 50%; MARGIN-BOTTOM: 0.5em; COLOR: #195a95; LINE-HEIGHT: 2em; BORDER-BOTTOM: #bac6d8 1px dotted
+}
+.content UL {
+	FLOAT: left; PADDING-TOP: 40px
+}
+.content UL LI {
+	FONT-SIZE: 12px; BACKGROUND: url(http://www.bzw123.com/about/images/left_link_div.gif) repeat-x left bottom; WIDTH: 620px; LINE-HEIGHT: 25px; HEIGHT: 35px; TEXT-ALIGN: left
+}
+.content UL LI A {
+	PADDING-RIGHT: 0px; DISPLAY: block; PADDING-LEFT: 25px; BACKGROUND: url(http://www.bzw123.com/about/images/arrow.gif) no-repeat 6px 10px; FLOAT: left; PADDING-BOTTOM: 0px; WIDTH: 500px; COLOR: #333; PADDING-TOP: 0px; TEXT-DECORATION: none
+}
+.content UL LI SPAN {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FLOAT: right; PADDING-BOTTOM: 0px; MARGIN: 0px; COLOR: #999; PADDING-TOP: 0px
+}
+.content UL LI A:hover {
+	COLOR: #1297d1
+}
+.content DL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+.content DT {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #f60; LINE-HEIGHT: 30px
+}
+.content DD {
+	FONT-SIZE: 14px; VERTICAL-ALIGN: bottom; COLOR: #999; LINE-HEIGHT: 23px
+}
+.content DD A:link {
+	COLOR: #333
+}
+.content DD A:visited {
+	COLOR: #333
+}
+.title {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #333333; LINE-HEIGHT: 30px; BORDER-BOTTOM: #999999 1px solid; TEXT-ALIGN: center
+}
+.zhushi {
+	FONT-SIZE: 12px; COLOR: #666666; LINE-HEIGHT: 20px; BORDER-BOTTOM: #cccccc 1px solid; HEIGHT: 25px; TEXT-ALIGN: center
+}
+TEXTAREA {
+	BORDER-RIGHT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #ccc 1px solid; LINE-HEIGHT: 1.5; BORDER-BOTTOM: #ccc 1px solid
+}
+#footer {
+	FONT-SIZE: 12px; FLOAT: left; WIDTH: 960px; COLOR: #666; LINE-HEIGHT: 20px; PADDING-TOP: 20px; HEIGHT: 30px; TEXT-ALIGN: center
+}
